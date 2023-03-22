@@ -1,0 +1,7 @@
+{
+    "general": {
+        "option": "train",
+        "balanced": "false",
+        "model_type": "DL"
+    }
+}
